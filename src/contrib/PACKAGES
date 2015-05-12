@@ -1,3 +1,12 @@
+Package: ggptt
+Version: 0.3.1
+Depends: ggplot2
+Imports: grid, scales
+Suggests: testthat
+License: GPL-3
+MD5sum: c7f70461924e14d443d8e19369e60ad4
+NeedsCompilation: no
+
 Package: statfitools
 Version: 0.3.0
 Depends: R (>= 3.1.2)
