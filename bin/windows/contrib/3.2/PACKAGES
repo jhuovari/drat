@@ -1,0 +1,7 @@
+Package: ggptt
+Version: 0.3.2
+Depends: ggplot2
+Imports: grid, scales
+Suggests: testthat
+License: GPL-3
+
