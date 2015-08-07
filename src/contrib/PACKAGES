@@ -1,10 +1,10 @@
 Package: ggptt
-Version: 0.3.2
+Version: 0.3.3
 Depends: ggplot2
 Imports: grid, scales
-Suggests: testthat
+Suggests: testthat, knitr, dplyr, tidyr
 License: GPL-3
-MD5sum: 3e44cde31673f502aa061d940585117c
+MD5sum: e2db68fecbf81fe6a0bf8f933dc195a2
 NeedsCompilation: no
 
 Package: statfitools
