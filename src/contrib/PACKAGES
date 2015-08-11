@@ -16,11 +16,11 @@ MD5sum: 6848cf8bf903dd2ea92b7e9d700fcee3
 NeedsCompilation: no
 
 Package: statfitools
-Version: 0.3.0
+Version: 0.3.0.9001
 Depends: R (>= 3.1.2)
 Imports: dplyr, tidyr, plyr
 Suggests: knitr, testthat, pxweb
 License: GPL-3
-MD5sum: 98c475aff24b98912ec49e96a7ac5ada
+MD5sum: 28a988ffbfa718fd17e7ecccef07d42b
 NeedsCompilation: no
 
