@@ -7,6 +7,14 @@ License: GPL-3
 MD5sum: e2db68fecbf81fe6a0bf8f933dc195a2
 NeedsCompilation: no
 
+Package: jtools
+Version: 1.9.2.9001
+Depends: ggplot2, ggptt, dplyr, tidyr
+Imports: devtools
+License: GPL
+MD5sum: 6848cf8bf903dd2ea92b7e9d700fcee3
+NeedsCompilation: no
+
 Package: statfitools
 Version: 0.3.0
 Depends: R (>= 3.1.2)
