@@ -11,3 +11,10 @@ Depends: ggplot2, ggptt, dplyr, tidyr
 Imports: devtools
 License: GPL
 
+Package: statfitools
+Version: 0.3.0.9001
+Depends: R (>= 3.1.2)
+Imports: dplyr, tidyr, plyr
+Suggests: knitr, testthat, pxweb
+License: GPL-3
+
