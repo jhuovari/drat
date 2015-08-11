@@ -5,3 +5,9 @@ Imports: grid, scales
 Suggests: testthat, knitr, dplyr, tidyr
 License: GPL-3
 
+Package: jtools
+Version: 1.9.2.9001
+Depends: ggplot2, ggptt, dplyr, tidyr
+Imports: devtools
+License: GPL
+
