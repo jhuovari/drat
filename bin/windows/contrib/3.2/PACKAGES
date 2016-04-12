@@ -1,7 +1,7 @@
 Package: ggptt
-Version: 0.3.3
-Depends: ggplot2
-Imports: grid, scales
+Version: 0.4.0
+Depends: R (>= 2.10), ggplot2
+Imports: grid, scales, gridExtra
 Suggests: testthat, knitr, dplyr, tidyr
 License: GPL-3
 
