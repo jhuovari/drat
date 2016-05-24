@@ -4,16 +4,12 @@ Depends: R (>= 2.10), ggplot2
 Imports: grid, scales, gridExtra
 Suggests: testthat, knitr, dplyr, tidyr
 License: GPL-3
-MD5sum: ad73a6147c6de820cb111706c6116404
-NeedsCompilation: no
 
 Package: jtools
 Version: 1.9.3
 Depends: ggplot2, ggptt, dplyr, tidyr
 Imports: devtools
 License: GPL
-MD5sum: e0fcf4558b7cd25279ce178a8e2106e3
-NeedsCompilation: no
 
 Package: statfitools
 Version: 0.3.1
@@ -21,6 +17,4 @@ Depends: R (>= 3.1.2)
 Imports: dplyr, tidyr, plyr
 Suggests: knitr, testthat, pxweb
 License: GPL-3
-MD5sum: c7e548c86d858fdd980ca9aa6825bba5
-NeedsCompilation: no
 
