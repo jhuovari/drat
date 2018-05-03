@@ -4,23 +4,17 @@ Depends: R (>= 2.10), ggplot2
 Imports: grid, scales, gridExtra
 Suggests: testthat, knitr, dplyr, tidyr
 License: GPL-3
-MD5sum: 80569b7ee9a611a9b302f9772dd122fc
-NeedsCompilation: no
 
 Package: jtools
 Version: 1.9.3
 Depends: ggplot2, ggptt, dplyr, tidyr, forcats
 Imports: devtools
 License: GPL
-MD5sum: 3b3ca6b55fdd961e3b440fdfd1f0b390
-NeedsCompilation: no
 
 Package: Rsuhdanne
 Version: 0.11.0
 Imports: pxR, XML, plyr, dplyr, tidyr, stringr, forcats
 License: GPL
-MD5sum: 9fdd01bea993551d8c2447c443761916
-NeedsCompilation: no
 
 Package: statfitools
 Version: 0.3.4.9001
@@ -29,5 +23,3 @@ Imports: dplyr, tidyr, plyr, readr, readxl, seasonal, lubridate, zoo,
         stats
 Suggests: knitr, testthat, pxweb, rmarkdown, forcats, ggplot2
 License: GPL-3
-MD5sum: 8162545328a16cb4928592db555e7a79
-NeedsCompilation: no
