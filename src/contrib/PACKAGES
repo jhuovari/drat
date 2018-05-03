@@ -15,6 +15,13 @@ License: GPL
 MD5sum: e0fcf4558b7cd25279ce178a8e2106e3
 NeedsCompilation: no
 
+Package: Rsuhdanne
+Version: 0.10.3
+Depends: XML, dloads, gWidgets, gWidgetstcltk, plyr, dplyr
+License: GPL
+MD5sum: 91de08c90df051f6bc31e02b41d185aa
+NeedsCompilation: no
+
 Package: statfitools
 Version: 0.3.1
 Depends: R (>= 3.1.2)
