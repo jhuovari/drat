@@ -11,6 +11,13 @@ Depends: ggplot2, ggptt, dplyr, tidyr, forcats
 Imports: devtools
 License: GPL
 
+Package: macrobonder
+Version: 0.1.0
+Depends: R (>= 3.1.2), MacrobondAPI
+Imports: xts
+Suggests: testthat
+License: GPL-3
+
 Package: Rsuhdanne
 Version: 0.11.0
 Imports: pxR, XML, plyr, dplyr, tidyr, stringr, forcats
@@ -19,7 +26,6 @@ License: GPL
 Package: statfitools
 Version: 0.3.4.9001
 Depends: R (>= 3.1.2)
-Imports: dplyr, tidyr, plyr, readr, readxl, seasonal, lubridate, zoo,
-        stats
+Imports: dplyr, tidyr, plyr, readr, readxl, seasonal, lubridate, zoo, stats
 Suggests: knitr, testthat, pxweb, rmarkdown, forcats, ggplot2
 License: GPL-3

@@ -4,7 +4,7 @@ Depends: R (>= 2.10), ggplot2
 Imports: grid, scales, gridExtra
 Suggests: testthat, knitr, dplyr, tidyr
 License: GPL-3
-MD5sum: 80569b7ee9a611a9b302f9772dd122fc
+MD5sum: a8cfd3b093f96cbe8e389889c9c7c3f2
 NeedsCompilation: no
 
 Package: jtools
@@ -15,19 +15,27 @@ License: GPL
 MD5sum: 3b3ca6b55fdd961e3b440fdfd1f0b390
 NeedsCompilation: no
 
+Package: macrobonder
+Version: 0.1.0
+Depends: R (>= 3.1.2), MacrobondAPI
+Imports: xts
+Suggests: testthat
+License: GPL-3
+MD5sum: f4564ec792cb10a86982fdb1cee28a4f
+NeedsCompilation: no
+
 Package: Rsuhdanne
 Version: 0.11.0
 Imports: pxR, XML, plyr, dplyr, tidyr, stringr, forcats
 License: GPL
-MD5sum: 9fdd01bea993551d8c2447c443761916
+MD5sum: 2d74e0a05c84c2313cbed89c37424fc6
 NeedsCompilation: no
 
 Package: statfitools
 Version: 0.3.4.9001
 Depends: R (>= 3.1.2)
-Imports: dplyr, tidyr, plyr, readr, readxl, seasonal, lubridate, zoo,
-        stats
+Imports: dplyr, tidyr, plyr, readr, readxl, seasonal, lubridate, zoo, stats
 Suggests: knitr, testthat, pxweb, rmarkdown, forcats, ggplot2
 License: GPL-3
-MD5sum: 8162545328a16cb4928592db555e7a79
+MD5sum: 9098a587ae599cfaa980bcdabd521b60
 NeedsCompilation: no
