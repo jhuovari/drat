@@ -1,10 +1,10 @@
 Package: ggptt
-Version: 0.4.2.9001
+Version: 1.1.0
 Depends: R (>= 2.10), ggplot2
-Imports: grid, scales, gridExtra
+Imports: grid, scales, gridExtra, lubridate
 Suggests: testthat, knitr, dplyr, tidyr
 License: GPL-3
-MD5sum: a8cfd3b093f96cbe8e389889c9c7c3f2
+MD5sum: f1c8f7f31e125a591bea8275d63f5487
 NeedsCompilation: no
 
 Package: jtools
@@ -32,10 +32,10 @@ MD5sum: 2d74e0a05c84c2313cbed89c37424fc6
 NeedsCompilation: no
 
 Package: statfitools
-Version: 0.3.4.9001
+Version: 0.3.5
 Depends: R (>= 3.1.2)
 Imports: dplyr, tidyr, plyr, readr, readxl, seasonal, lubridate, zoo, stats
 Suggests: knitr, testthat, pxweb, rmarkdown, forcats, ggplot2
 License: GPL-3
-MD5sum: 9098a587ae599cfaa980bcdabd521b60
+MD5sum: 8e209a96fcffd6a60350339bdf7d2fc8
 NeedsCompilation: no
