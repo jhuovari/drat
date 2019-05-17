@@ -1,0 +1,13 @@
+Package: ggptt
+Version: 1.1.0
+Depends: R (>= 2.10), ggplot2
+Imports: grid, scales, gridExtra, lubridate
+Suggests: testthat, knitr, dplyr, tidyr
+License: GPL-3
+
+Package: statfitools
+Version: 0.3.5
+Depends: R (>= 3.1.2)
+Imports: dplyr, tidyr, plyr, readr, readxl, seasonal, lubridate, zoo, stats
+Suggests: knitr, testthat, pxweb, rmarkdown, forcats, ggplot2
+License: GPL-3
