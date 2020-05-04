@@ -1,10 +1,10 @@
 Package: ggptt
-Version: 1.1.0
+Version: 1.2.3
 Depends: R (>= 2.10), ggplot2
-Imports: grid, scales, gridExtra, lubridate
-Suggests: testthat, knitr, dplyr, tidyr
+Imports: dplyr, tidyr, rlang, grid, scales, gridExtra, lubridate, highcharter
+Suggests: testthat, knitr
 License: GPL-3
-MD5sum: f1c8f7f31e125a591bea8275d63f5487
+MD5sum: 2c689a32b10acc5db390c3348c7d6b6c
 NeedsCompilation: no
 
 Package: jtools

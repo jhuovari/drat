@@ -1,0 +1,6 @@
+Package: ggptt
+Version: 1.2.3
+Depends: R (>= 2.10), ggplot2
+Imports: dplyr, tidyr, rlang, grid, scales, gridExtra, lubridate, highcharter
+Suggests: testthat, knitr
+License: GPL-3
