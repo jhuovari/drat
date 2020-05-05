@@ -4,3 +4,15 @@ Depends: R (>= 2.10), ggplot2
 Imports: dplyr, tidyr, rlang, grid, scales, gridExtra, lubridate, highcharter
 Suggests: testthat, knitr
 License: GPL-3
+
+Package: Rsuhdanne
+Version: 0.11.2
+Imports: XML, plyr, dplyr, tidyr, stringr, forcats
+License: GPL
+
+Package: statfitools
+Version: 0.3.6.9001
+Depends: R (>= 3.1.2)
+Imports: dplyr, tidyr, plyr, readr, readxl, seasonal, lubridate, zoo, stats
+Suggests: knitr, testthat (>= 2.1.0), pxweb, rmarkdown, forcats, ggplot2
+License: GPL-3
